@@ -13,3 +13,7 @@ following this steps
 ### activate conda env
 
     conda activate ./devenv
+    
+## Update conda env
+
+    conda env export > devenv.yaml
